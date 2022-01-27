@@ -1,0 +1,1 @@
+We return once again to our familiar Pythagorean Theorem pipelined logic
